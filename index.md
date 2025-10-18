@@ -21,3 +21,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] MANAGE TO READ ALL 120-SOME PAGES OF CHAPTERS 1-2 IN A TIMELY MANNER
+- [ ] TOUCH GRASS
+- [ ] GET FRESH AIR
+- [ ] CRY
